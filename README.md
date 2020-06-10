@@ -1,4 +1,4 @@
-# Introduction to MATLAb 2020
+## Introduction to MATLAB 2020
 
 Instructor: Mai Nguyen, mlnguyen@princeton.edu 
 
@@ -14,3 +14,6 @@ Class structure
 *	Beginning Week 2, Wednesday will start with code review of previous week’s assignment (either in small group breakouts or whole class together)
 
 
+## Class recording
+Recordings of classes will be uploaded here following each lecture.
+Week 1, lecture 1: link
