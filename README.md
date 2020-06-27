@@ -16,8 +16,8 @@ Class structure
 
 ## Acknowledgement
 Data for several homework assignments were generously shared by members of the Princeton Department of Psychology and Princeton Neuroscience Institute as indicated below. Data are shared here with permission of the authors.
-* Week 2, Problem 3: Data from M Nguyen (mlnguyen [at] princeton.edu), adapted from "Teacher-Student neural coupling during teaching and learning" [link](https://www.biorxiv.org/content/10.1101/2020.05.07.082958v1)
+* Week 2, Problem 3: Data from M Nguyen (mlnguyen [at] princeton.edu), adapted from "Teacher-Student neural coupling during teaching and learning" [[link]](https://www.biorxiv.org/content/10.1101/2020.05.07.082958v1)
 * Week 3, Problem 1: Data from A Kurosu (akurosu [at] princeton.edu) and Yoko Urano, adapted from work in prep.
-* Week 3, Problem 2: Data from Y Yeshurun (yaaray [at] tauex.tau.ac.il), adated from "Same story, different story: the neural representation of interpretive frameworks" [link](https://journals.sagepub.com/doi/10.1177/0956797616682029)
+* Week 3, Problem 2: Data from Y Yeshurun (yaaray [at] tauex.tau.ac.il), adated from "Same story, different story: the neural representation of interpretive frameworks" [[link]](https://journals.sagepub.com/doi/10.1177/0956797616682029)
 
 
