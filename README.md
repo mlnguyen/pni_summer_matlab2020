@@ -15,8 +15,9 @@ Class structure
 
 ## Acknowledgement
 Data for several homework assignments and lectures were generously shared by members of the Princeton Department of Psychology and Princeton Neuroscience Institute as indicated below. Data are shared here with permission of the authors.
-* Week 2, Problem 3: Data from M Nguyen (mlnguyen [at] princeton.edu), adapted from "Teacher-Student neural coupling during teaching and learning" [[link]](https://www.biorxiv.org/content/10.1101/2020.05.07.082958v1)
-* Week 3, Problem 1: Data from A Kurosu (akurosu [at] princeton.edu) and Yoko Urano, adapted from work in prep.
-* Week 3, Problem 2: Data from Y Yeshurun (yaaray [at] tauex.tau.ac.il), adapted from "Same story, different story: the neural representation of interpretive frameworks" [[link]](https://journals.sagepub.com/doi/10.1177/0956797616682029)
+* Week 2, HW Problem 3: Data from M Nguyen (mlnguyen [at] princeton.edu), adapted from "Teacher-Student neural coupling during teaching and learning" [[link]](https://www.biorxiv.org/content/10.1101/2020.05.07.082958v1)
+* Week 3, HW Problem 1: Data from A Kurosu (akurosu [at] princeton.edu) and Yoko Urano, adapted from work in prep.
+* Week 3, HW Problem 2: Data from Y Yeshurun (yaaray [at] tauex.tau.ac.il), adapted from "Same story, different story: the neural representation of interpretive frameworks" [[link]](https://journals.sagepub.com/doi/10.1177/0956797616682029)
 * Week 5, Lecture 8: Data from N Rouhani (nrouhani [at] princeton.edu), adapted from "Dissociable effects of surprising rewards on learning and memory" [[link]](https://pubmed.ncbi.nlm.nih.gov/29553767/)
-
+* Week 5, Lecture 9: Data from S Wilterson (wilterson [at] princeton.edu), adapted from "Relative sensitivity of explicit reaiming and implicit motor adaptation" [[link]](https://journals.physiology.org/doi/full/10.1152/jn.00283.2018)
+% Week 5, HW Problems 1-3: Data from M Nguyen (mlnguyen [at] princeton.edu), adapted from "Teacher-Student neural coupling during teaching and learning" [[link]](https://www.biorxiv.org/content/10.1101/2020.05.07.082958v1)
