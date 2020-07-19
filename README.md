@@ -14,6 +14,8 @@ Class structure
 
 
 ## Acknowledgement
+
+### Data Sharing
 Data for several homework assignments and lectures were generously shared by members of the Princeton Department of Psychology and Princeton Neuroscience Institute as indicated below. Data are shared here with permission of the authors.
 * Week 2, HW Problem 3: Data from M Nguyen (mlnguyen [at] princeton.edu), adapted from "Teacher-Student neural coupling during teaching and learning" [[link]](https://www.biorxiv.org/content/10.1101/2020.05.07.082958v1)
 * Week 3, HW Problem 1: Data from A Kurosu (akurosu [at] princeton.edu) and Yoko Urano, adapted from work in prep.
@@ -21,3 +23,7 @@ Data for several homework assignments and lectures were generously shared by mem
 * Week 5, Lecture 8: Data from N Rouhani (nrouhani [at] princeton.edu), adapted from "Dissociable effects of surprising rewards on learning and memory" [[link]](https://pubmed.ncbi.nlm.nih.gov/29553767/)
 * Week 5, Lecture 9: Data from S Wilterson (wilterson [at] princeton.edu), adapted from "Relative sensitivity of explicit reaiming and implicit motor adaptation" [[link]](https://journals.physiology.org/doi/full/10.1152/jn.00283.2018)
 * Week 5, HW Problems 1-3: Data from M Nguyen (mlnguyen [at] princeton.edu), adapted from "Teacher-Student neural coupling during teaching and learning" [[link]](https://www.biorxiv.org/content/10.1101/2020.05.07.082958v1)
+
+### Guest Lectures
+* Many thanks to Elise Piazza (epiazza [at] princeton.edu) and Catalin Iordan (mci [at] princeton.edu for their guest lecture on classifiers on July 15! Work on using classifiers to show differences in timbre for adult vs infant directed speech is "Mothers Consistently Alter Their Unique Vocal
+Fingerprints When Communicating with Infants" [[link]](http://www.elisepiazza.com/papers/Piazza%20et%20al%20(2017).pdf). 
