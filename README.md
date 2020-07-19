@@ -13,7 +13,7 @@ Class structure
 *	Weekly assignments (2-3 hours, maybe longer for later topics) assigned Friday, due following Tuesday. I’ll provide written feedback/comments on assignments and will be available for one-one-one meetings
 
 
-## Acknowledgement
+## Acknowledgements
 
 ### Data Sharing
 Data for several homework assignments and lectures were generously shared by members of the Princeton Department of Psychology and Princeton Neuroscience Institute as indicated below. Data are shared here with permission of the authors.
