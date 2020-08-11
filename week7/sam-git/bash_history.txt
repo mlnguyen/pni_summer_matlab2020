@@ -1,0 +1,87 @@
+pwd
+cd Work/matlab-summer-2020/
+git init open-tutorial
+git --version
+ls
+cd open-tutorial
+ls
+jupyter lab
+bg
+pwd
+ls
+git status
+git add divide.py 
+ls
+git status
+git commit -m "Add simple division script"
+git status
+git config --list --show-origin
+git config --global user.name "Sam Nastase"
+git log
+ls
+ls -al
+git status
+git diff divide.py 
+git add divide.py 
+git status
+git commit -m "Remove 'result' to slim down division"
+git log
+git diff divide.py 
+git diff 3a0595:divide.py ef26:divide.py
+python
+git checkout 3a0595
+git log
+less divide.py 
+git branch
+git checkout master
+git branch
+less divide.py 
+git log
+vim .gitignore
+git status
+git add .gitignore
+git commit -m "Add .gitignore"
+git checkout -b square-dev
+git branch
+vim square.py
+git status
+git add square.py 
+git commit -m "Add new squaring script"
+git log
+git checkout master
+ls
+git checkout square-dev
+ls
+git checkout master
+git diff master square-dev
+git branch
+git merge square-dev
+ls
+git log
+git branch
+git branch -D square-dev
+git branch
+git remote add origin https://github.com/snastase/open-tutorial.git
+git push -u origin master
+ls
+git pull
+ls
+vim README.md 
+git pull
+less LICENSE 
+ls
+python3
+python2
+python3
+python
+which python
+python --version
+ls
+pylint divide.py
+vim divide.py
+pylint divide.py
+vim test_divide.py
+py.test
+vim divide.py
+py.test
+history -w ~/bash_history.txt
