@@ -27,3 +27,5 @@ Data for several homework assignments and lectures were generously shared by mem
 ### Guest Lectures
 * Many thanks to Elise Piazza (epiazza [at] princeton.edu) and Catalin Iordan (mci [at] princeton.edu for their guest lecture on classifiers on July 15! Work on using classifiers to show differences in timbre for adult vs infant directed speech is "Mothers Consistently Alter Their Unique Vocal
 Fingerprints When Communicating with Infants" [[link]](http://www.elisepiazza.com/papers/Piazza%20et%20al%20(2017).pdf). 
+* Many thanks to Zaid Zada (zzada [at] princeton.edu] for their guest lecture on natural language processing on July 22
+* Many thanks to Sam Nastase (snastase [at] princeton.edu] for their guest lecture on open science, code reproducibility, and GitHub on July 24
